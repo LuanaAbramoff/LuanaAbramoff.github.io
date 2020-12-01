@@ -11,8 +11,8 @@
     </head>
     <body>
         <ul>
-            <li><a class="botaomaior" href="minhaorganizacao.html"  >Minha organização</a></li>
-            <li><a class="botaomaior" href="habilidades.html"  >Preciso de um ajudante na cozinha</a></li>
+            <li><a class="botaomaior" href="html/minhaorganizacao.html"  >Minha organização</a></li>
+            <li><a class="botaomaior" href="html/habilidades.html"  >Preciso de um ajudante na cozinha</a></li>
         </ul>
     </body>
 </html>
